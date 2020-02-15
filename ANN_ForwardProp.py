@@ -1,4 +1,4 @@
-# Designing a ANN using Keras and Tensorflow as backend
+
 """ lets assume we have a simple ANN with two hidden layers;
 input layer has two inputs and output layer has one output
 There would be total of 6 connections assuming the first hidden layer has two neurons
